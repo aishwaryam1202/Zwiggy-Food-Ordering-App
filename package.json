@@ -1,0 +1,27 @@
+{
+  "name": "zwiggy-food-ordering-app",
+  "version": "1.0.0",
+  "description": "Food Ordering App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishwaryam1202/Zwiggy-Food-Ordering-App.git"
+  },
+  "keywords": [
+    "Food",
+    "Ordering",
+    "Application"
+  ],
+  "author": "Aishwarya Manoharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishwaryam1202/Zwiggy-Food-Ordering-App/issues"
+  },
+  "homepage": "https://github.com/aishwaryam1202/Zwiggy-Food-Ordering-App#readme",
+  "dependencies": {
+    "parcel": "^2.13.0"
+  }
+}
